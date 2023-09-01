@@ -1,0 +1,16 @@
+div ul li{
+     list-style: none;
+     padding: 24px;
+}
+.containera{
+     margin-top: 11vh;
+     position: fixed;
+}
+.containera div{
+     box-shadow: rgba(0, 0, 0, 0.349) 2px 0px 3px ;   
+     position: sticky;
+     top: 1;   
+}
+.sidebarIcon{
+     color: blue;
+}
